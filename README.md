@@ -2,7 +2,7 @@
 
 seed project for Angular reusable components that are AOT/JIT compatible
 
-## Development status - `:construction: in progress`
+## Development status - :construction: `in progress`
 
 ### TODO
 
