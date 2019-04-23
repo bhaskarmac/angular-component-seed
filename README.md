@@ -1,2 +1,8 @@
 # angular-component-seed
-Seed project for Angular components that are AOT/JIT compatible
+
+seed project for Angular reusable components that are AOT/JIT compatible
+
+### TODO
+
+- [ ] Upgrade dependencies
+- [ ] Setup travis
